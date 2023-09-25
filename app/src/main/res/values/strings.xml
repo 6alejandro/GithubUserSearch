@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyFirstSubmission</string>
+
+    <string name="searchbar_hint">Search here...</string>
+
+    <string name="this_activity">Main Activity</string>
+
+    <string name="username">username</string>
+    <string name="followers_template">Followers:\n%s</string>
+    <string name="following_template">Following:\n%s</string>
+    <string name="name">Name</string>
+
+    <string name="followers_tab">Followers</string>
+    <string name="followings_tab">Followings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
